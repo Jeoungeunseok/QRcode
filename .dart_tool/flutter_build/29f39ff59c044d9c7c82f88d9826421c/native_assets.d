@@ -1,0 +1,1 @@
+ C:\\Users\\wjddm\\Project\\flutter_package\\qrcode\\.dart_tool\\flutter_build\\29f39ff59c044d9c7c82f88d9826421c\\native_assets.yaml: 
